@@ -1,23 +1,23 @@
 Iron Man
 capitan America
 Thor
-Hombre araña
-Bruja escarlata
-Pantera negra
+Hombre araña -- desaparece
+Bruja escarlata -- desaparece
+Pantera negra -- desaparece
 Hulk
-Doctor Strange
+Doctor Strange -- desaparece
 Ojo de alcón
-Visión
-AntMan
+Visión -- muere 2 veces
+AntMan --está en el mundo cuántico
 Nebula
-Gamora
-Soldado del invierno
-Groot
-Falcon
+Gamora -- muere
+Soldado del invierno -- desaparece
+Groot -- desaparece
+Falcon -- desaparece
 Maquina de guerra
 Rocket
-Nick Fury
-Stard Lord
-Maria Hill
-Drax
-Mantis
+Nick Fury -- desaparece
+Stard Lord -- desaparece
+Maria Hill -- desaparece
+Drax -- desaparece
+Mantis -- desaparece
